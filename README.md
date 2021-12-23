@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Gabriel-Hernandez-Leon
-- 👀 I’m interested in econometrics, economic development and growth.
-- 🌱 I’m currently learning more of Python and R.
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+# H. Gabriel Hernández-León
+
+## About me
+
+I am an economist and currently a student of the Master in Economics program at Center of Research and Teaching in Economics, [CIDE](https://www.cide.edu/).
+
+My research topic of interest the intersection of **development economics** and **political economy**. I enjoy both theoretical and empirical research. 
+
+## Sobre mí
+
+Soy economista y actualmente estudiante del programa de la Maestría en Economía en el Centro de Investigación y Docencia Económicas, [CIDE](https://www.cide.edu/).
+
+Mis temas de investigación de interés son el **desarrollo económico** y la **economía política**. Disfruto tanto la investigación teórica como la empírica.
+
+
 
 <!---
 Gabriel-Hernandez-Leon/Gabriel-Hernandez-Leon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
